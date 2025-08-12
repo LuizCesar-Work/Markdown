@@ -86,4 +86,4 @@ Emojis
 :clap:
 :eyes:
 :muscle:
-:like:
+:+1:
