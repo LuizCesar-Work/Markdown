@@ -87,3 +87,14 @@ Emojis
 :eyes:
 :muscle:
 :+1:
+
+---
+
+Tabelas
+
+Ano | Matéria | Aluno | Nota
+
+--- | --- |
+
+2025 | teste | teste | 4,6
+
